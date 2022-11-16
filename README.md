@@ -7,7 +7,7 @@
 - Email: salaki1902@gmail.com
 - Twitter: oshioke_salaki
 - Instagram: its_salaki
-- While you are here, you should definatley check out some of my stuff👍
+- While you are here, you should definitely check out some of my stuff👍
 
 Tech Stack: HTML, CSS, SASS, JavaScript(React.js, Node.js and Express), MongoDB(Mongoose).
 <!---
