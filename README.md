@@ -9,7 +9,7 @@
 - Instagram: its_salaki
 - While you are here, you should definitely check out some of my stuff👍
 
-Tech Stack: HTML, CSS, SASS, JavaScript(React.js, Node.js and Express), MongoDB(Mongoose).
+Tech Stack: HTML, CSS, SASS, Tailwind css, JavaScript(React.js, Node.js and Express), MongoDB(Mongoose).
 <!---
 Oshioke-Salaki/Oshioke-Salaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
