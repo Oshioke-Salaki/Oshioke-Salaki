@@ -14,3 +14,5 @@ Tech Stack: HTML, CSS, SASS, Tailwind css, JavaScript(React.js, Node.js and Expr
 Oshioke-Salaki/Oshioke-Salaki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Oshioke-Salaki1&theme=dark)](https://git.io/streak-stats)
